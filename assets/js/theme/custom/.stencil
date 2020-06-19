@@ -1,0 +1,11 @@
+{
+  "normalStoreUrl": "https://mikaelarodriguez.com/",
+  "accessToken": "rijvbj16swo03f3uvooighpm0509ujr",
+  "port": "3000",
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  }
+}
